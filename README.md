@@ -1,6 +1,6 @@
 # Javascript
 
-### Déclarer une variable
+## Déclarer une variable
 var a;
 
 console.log(a);
