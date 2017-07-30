@@ -66,13 +66,13 @@ case valeur1:
 
     // instructions exécutées quand expression vaut valeur1
     
-    break;
+   break;
     
 case valeur2:
 
     // instructions exécutées quand expression vaut valeur2
     
-    break;
+   break;
     
 ...
 
