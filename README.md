@@ -105,3 +105,19 @@ for (initialisation; condition; incrémentation) {
 L'initialisation se produit une seule fois, au début de l'exécution.
 La condition est évaluée avant chaque tour de boucle. Si elle est vraie, un nouveau tour de boucle est effectué. Sinon, la boucle est terminée.
 L'incrémentation est réalisée après chaque tour de boucle.
+
+===========================================================================
+
+## Les objets
+
+### Definir un constructeur
+
+function Person(nom, prenom) {
+
+    this.nom = nom;
+    this.prenom = prenom;
+
+   // Code du constructeur
+   
+}
+
