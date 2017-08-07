@@ -115,6 +115,7 @@ L'incrémentation est réalisée après chaque tour de boucle.
 function Person(nom, prenom) {
 
    this.nom = nom;
+   
    this.prenom = prenom;
 
         // Code du constructeur
